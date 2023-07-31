@@ -1,0 +1,1 @@
+CALL InsertOrUpdateOficina(1, 1, 'NombreOficina', 'DireccionOficina', 'CiudadOficina', 'EstadoOficina', 'PaisOficina', 1);

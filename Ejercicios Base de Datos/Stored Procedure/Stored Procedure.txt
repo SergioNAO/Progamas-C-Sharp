@@ -1,0 +1,29 @@
+DELIMITER //
+
+CREATE PROCEDURE InsertOrUpdate(
+    IN parametro INT,
+    IN temp_id INT,
+    IN temp_nombre VARCHAR(100),
+    IN temp_direccion VARCHAR(100),
+    IN temp_ciudad VARCHAR(100),
+    IN temp_estado VARCHAR(100),
+    IN temp_pais VARCHAR(100),
+    IN temp_division INT
+)
+BEGIN
+    IF parametro = 1 THEN
+        INSERT INTO Oficinas (ID, Nombre, Direccion, Ciudad, Estado, Pais, Division)
+        VALUES (temp_id, temp_nombre, temp_direccion, temp_ciudad, temp_estado, temp_pais, temp_division);
+    ELSE
+        UPDATE Oficinas
+        SET Direccion = temp_direccion
+        WHERE ID = temp_id;
+    END IF;
+END //
+
+DELIMITER ;
+
+
+
+
+
