@@ -1,0 +1,6 @@
+C:\Users\sergio\source\repos\Num_Par_o_Impar\Num_Par_o_Impar\bin\Debug\Num_Par_o_Impar.exe.config
+C:\Users\sergio\source\repos\Num_Par_o_Impar\Num_Par_o_Impar\bin\Debug\Num_Par_o_Impar.exe
+C:\Users\sergio\source\repos\Num_Par_o_Impar\Num_Par_o_Impar\bin\Debug\Num_Par_o_Impar.pdb
+C:\Users\sergio\source\repos\Num_Par_o_Impar\Num_Par_o_Impar\obj\Debug\Num_Par_o_Impar.csproj.CoreCompileInputs.cache
+C:\Users\sergio\source\repos\Num_Par_o_Impar\Num_Par_o_Impar\obj\Debug\Num_Par_o_Impar.exe
+C:\Users\sergio\source\repos\Num_Par_o_Impar\Num_Par_o_Impar\obj\Debug\Num_Par_o_Impar.pdb
