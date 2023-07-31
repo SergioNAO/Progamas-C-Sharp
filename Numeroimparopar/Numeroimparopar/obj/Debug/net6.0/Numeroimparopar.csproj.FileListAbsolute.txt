@@ -1,0 +1,15 @@
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\bin\Debug\net6.0\Numeroimparopar.exe
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\bin\Debug\net6.0\Numeroimparopar.deps.json
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\bin\Debug\net6.0\Numeroimparopar.runtimeconfig.json
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\bin\Debug\net6.0\Numeroimparopar.dll
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\bin\Debug\net6.0\Numeroimparopar.pdb
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.csproj.AssemblyReference.cache
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.AssemblyInfoInputs.cache
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.AssemblyInfo.cs
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.csproj.CoreCompileInputs.cache
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.dll
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\refint\Numeroimparopar.dll
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.pdb
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\Numeroimparopar.genruntimeconfig.cache
+C:\Users\SaulSH\source\repos\Numeroimparopar\Numeroimparopar\obj\Debug\net6.0\ref\Numeroimparopar.dll

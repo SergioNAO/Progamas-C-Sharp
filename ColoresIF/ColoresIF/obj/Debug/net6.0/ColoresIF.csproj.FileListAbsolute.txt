@@ -1,0 +1,15 @@
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\bin\Debug\net6.0\ColoresIF.exe
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\bin\Debug\net6.0\ColoresIF.deps.json
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\bin\Debug\net6.0\ColoresIF.runtimeconfig.json
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\bin\Debug\net6.0\ColoresIF.dll
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\bin\Debug\net6.0\ColoresIF.pdb
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.csproj.AssemblyReference.cache
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.AssemblyInfoInputs.cache
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.AssemblyInfo.cs
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.csproj.CoreCompileInputs.cache
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.dll
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\refint\ColoresIF.dll
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.pdb
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ColoresIF.genruntimeconfig.cache
+C:\Users\SaulSH\source\repos\ColoresIF\ColoresIF\obj\Debug\net6.0\ref\ColoresIF.dll
