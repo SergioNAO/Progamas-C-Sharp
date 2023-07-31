@@ -1,0 +1,14 @@
+C:\Users\sergio\source\repos\FormAPP\FormAPP\bin\Debug\FormAPP.exe.config
+C:\Users\sergio\source\repos\FormAPP\FormAPP\bin\Debug\FormAPP.exe
+C:\Users\sergio\source\repos\FormAPP\FormAPP\bin\Debug\FormAPP.pdb
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.csproj.AssemblyReference.cache
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.Form1.resources
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.Properties.Resources.resources
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.csproj.GenerateResource.cache
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.csproj.CoreCompileInputs.cache
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.exe
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.pdb
+C:\Users\sergio\source\repos\FormAPP\FormAPP\bin\Debug\FormAPP.exe.manifest
+C:\Users\sergio\source\repos\FormAPP\FormAPP\bin\Debug\FormAPP.application
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.exe.manifest
+C:\Users\sergio\source\repos\FormAPP\FormAPP\obj\Debug\FormAPP.application
