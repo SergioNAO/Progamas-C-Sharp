@@ -1,0 +1,7 @@
+C:\Users\sergio\source\repos\TablaColores-Swich\TablaColores-Swich\bin\Debug\TablaColores-Swich.exe.config
+C:\Users\sergio\source\repos\TablaColores-Swich\TablaColores-Swich\bin\Debug\TablaColores-Swich.exe
+C:\Users\sergio\source\repos\TablaColores-Swich\TablaColores-Swich\bin\Debug\TablaColores-Swich.pdb
+C:\Users\sergio\source\repos\TablaColores-Swich\TablaColores-Swich\obj\Debug\TablaColores-Swich.csproj.AssemblyReference.cache
+C:\Users\sergio\source\repos\TablaColores-Swich\TablaColores-Swich\obj\Debug\TablaColores-Swich.csproj.CoreCompileInputs.cache
+C:\Users\sergio\source\repos\TablaColores-Swich\TablaColores-Swich\obj\Debug\TablaColores-Swich.exe
+C:\Users\sergio\source\repos\TablaColores-Swich\TablaColores-Swich\obj\Debug\TablaColores-Swich.pdb
