@@ -1,0 +1,14 @@
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\bin\Debug\net7.0\RenovacionSuscripcion.exe
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\bin\Debug\net7.0\RenovacionSuscripcion.deps.json
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\bin\Debug\net7.0\RenovacionSuscripcion.runtimeconfig.json
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\bin\Debug\net7.0\RenovacionSuscripcion.dll
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\bin\Debug\net7.0\RenovacionSuscripcion.pdb
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\RenovacionSuscripcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\RenovacionSuscripcion.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\RenovacionSuscripcion.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\RenovacionSuscripcion.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\RenovacionSuscripcion.dll
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\refint\RenovacionSuscripcion.dll
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\RenovacionSuscripcion.pdb
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\RenovacionSuscripcion.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Documentos\Curso WEB\C#\CsharpProjects\RenovacionSuscripcion\obj\Debug\net7.0\ref\RenovacionSuscripcion.dll
