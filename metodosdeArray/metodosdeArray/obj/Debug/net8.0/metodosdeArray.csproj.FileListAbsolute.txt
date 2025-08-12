@@ -1,0 +1,14 @@
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\bin\Debug\net8.0\metodosdeArray.exe
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\bin\Debug\net8.0\metodosdeArray.deps.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\bin\Debug\net8.0\metodosdeArray.runtimeconfig.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\bin\Debug\net8.0\metodosdeArray.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\bin\Debug\net8.0\metodosdeArray.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\metodosdeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\metodosdeArray.AssemblyInfoInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\metodosdeArray.AssemblyInfo.cs
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\metodosdeArray.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\metodosdeArray.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\refint\metodosdeArray.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\metodosdeArray.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\metodosdeArray.genruntimeconfig.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\metodosdeArray\metodosdeArray\obj\Debug\net8.0\ref\metodosdeArray.dll
