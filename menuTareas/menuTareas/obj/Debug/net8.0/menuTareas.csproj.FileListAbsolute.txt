@@ -1,0 +1,14 @@
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\bin\Debug\net8.0\menuTareas.exe
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\bin\Debug\net8.0\menuTareas.deps.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\bin\Debug\net8.0\menuTareas.runtimeconfig.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\bin\Debug\net8.0\menuTareas.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\bin\Debug\net8.0\menuTareas.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\menuTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\menuTareas.AssemblyInfoInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\menuTareas.AssemblyInfo.cs
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\menuTareas.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\menuTareas.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\refint\menuTareas.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\menuTareas.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\menuTareas.genruntimeconfig.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\menuTareas\menuTareas\obj\Debug\net8.0\ref\menuTareas.dll
