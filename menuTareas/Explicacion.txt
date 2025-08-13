@@ -1,0 +1,16 @@
+En este programa se hizo un pequeño menu con opciones en el cual se hizo uso de las listas dinamicas en C#
+
+Se hizo la creacion de metodos para realizar cada accion del menu, se uso el ciclo while para correr el programa mientras
+la condicion se cumpliera y se usa el switch para la eleccion de las opciones en el menu.
+
+Se practico la entrada de datos por medio del usuario, se hizo uso de del Trim() para prevenir errores.
+Se hizo uso de Add() para agregar elemento a la lista 
+.RemoveAt() para la eliminacion de elementos en la lista
+
+se utilizaron ciclos for para la impresion de datos de la lista, 
+
+Otros metodos que se usaron fueron
+(!int.TryParse(dato1, dato2))
+string.IsNullOrWhiteSpace("string")
+Console.ReadLine()?.Trim();
+static readonly List<string> tareas = new List<string>();
