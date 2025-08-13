@@ -1,0 +1,14 @@
+En este programa se usaron diversos metodos de un array en C#
+
+-Insecion de datos en el Array 
+" numeros = entrada.Split(',')
+                  .Select(n => int.Parse(n.Trim()))
+                  .ToArray();"
+-Calcular el elemento mayor en el array
+ "int mayor = numeros.Max();"
+-Calcular el elemento menor en el array
+ "int menor = numeros.Min();"
+-Obtener el promedio de los elementos del Array
+"double promedio = numeros.Average();"
+-Ordenar los elementos del array en orden ascendente
+ "int[] ordenados = numeros.OrderBy(n => n).ToArray();"
